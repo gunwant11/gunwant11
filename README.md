@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning DSA 😭😭
-- 💬 Ask me about anything related to React and Node
+- 💬 Ask me about anything related to React and Nextjs
 - 📫 How to reach me: gunwant7272@gmail.com or [@gunwant_11](https://twitter.com/gunwant_11) 
 - ⚡ Fun fact: i ❤ food
 
