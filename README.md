@@ -6,5 +6,5 @@
 - 📫 How to reach me: gunwant7272@gmail.com or [@gunwant_11](https://twitter.com/gunwant_11) 
 - ⚡ Fun fact: i ❤ food
 
-![Gunwants's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwant11&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwant11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Gunwants's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwant11&theme=dark&show_icons=true)
 
