@@ -2,7 +2,7 @@
 👨‍💻 Welcome to my Coding Kitchen! 🍳
 
 ### About Me
-Hey there! I'm Gunwant Wankhede, a passionate Full Stack Developer with a knack for whipping up scalable AI-driven solutions. Armed with a Bachelor's degree in Computer Science, I thrive on turning complex challenges into elegant code.
+Hey there! I'm Gunwant Wankhede, a passionate Full Stack Developer with a knack for whipping up scalable AI-driven solutions.
 
 
 **What Gets Me Excited**
@@ -13,15 +13,6 @@ Hey there! I'm Gunwant Wankhede, a passionate Full Stack Developer with a knack 
   
 - ☁️ **Cloud Tech and Linux Servers**: Enjoy optimizing Linux servers and leveraging cloud technologies for robust, scalable application infrastructures.
 
-
-
-### Beyond the Keyboard
-When I'm not crafting code, you'll find me:
-- 🍳 Cooking up tasty dishes to unwind
-- 🏸 Smashing shuttlecocks on the badminton court
-
-### Let's Connect
-Explore my repositories and drop me a line if you're into coding adventures or just want to chat about tech and beyond!
 
 📫 How to reach me: gunwant7272@gmail.com or [@gunwant_11](https://twitter.com/gunwant_11) 
 
