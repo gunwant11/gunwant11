@@ -1,5 +1,5 @@
 
-👨‍💻 Welcome to my Coding Kitchen! 🍳
+## Hi there, I'm Gunwant Wankhede 👋
 
 ### About Me
 Hey there! I'm Gunwant Wankhede, a passionate Full Stack Developer with a knack for whipping up scalable AI-driven solutions.
@@ -16,6 +16,5 @@ Hey there! I'm Gunwant Wankhede, a passionate Full Stack Developer with a knack 
 
 📫 How to reach me: gunwant7272@gmail.com or [@gunwant_11](https://twitter.com/gunwant_11) 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gunwant11&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
